@@ -1,0 +1,9 @@
+{
+  "name": "yakin-server",
+  "version": "1.0.0",
+  "description": "Yakın: numarayla bulma ve iletme sunucusu",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.17.0" }
+}

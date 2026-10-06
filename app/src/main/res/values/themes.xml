@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Yakin" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <item name="android:statusBarColor">@color/splash_bg</item>
+        <item name="android:navigationBarColor">@color/splash_bg</item>
+    </style>
+    <color name="ic_bg">#4F46E5</color>
+    <color name="splash_bg">#EDE9FE</color>
+</resources>
